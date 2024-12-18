@@ -122,8 +122,9 @@ struct Home: View {
                 DispatchQueue.main.async {
                     ListaDeProdutos = produtos
                 }
-
-            
+                
+                
+            }
         }
     }
 
